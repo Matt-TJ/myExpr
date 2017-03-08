@@ -12,4 +12,3 @@ for parent in range(3,1000000):
             iNum+=1
     if iNum==0:
         print parent
-                
